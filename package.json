@@ -60,7 +60,7 @@
     "yargs": "15.0.1"
   },
   "devDependencies": {
-    "firebase-tools": "^7.0.0",
+    "firebase-tools": "^7.14.0",
     "grunt": "^1.0.3",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-csslint": "~2.0.0",
